@@ -7,3 +7,4 @@ meal_choice("peas", "carrots", "chicken")
 
 veg1 = "carrots"
 veg2 = "peas"
+protein = "chicken"
